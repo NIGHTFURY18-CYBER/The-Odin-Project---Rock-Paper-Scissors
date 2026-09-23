@@ -2,6 +2,9 @@
 
 A console-based Rock Paper Scissors game built as part of [The Odin Project](https://www.theodinproject.com/) JavaScript curriculum.
 
+## Live Demo
+ https://nightfury18-cyber.github.io/The-Odin-Project---Rock-Paper-Scissors/
+
 ## How to Play
 
 1. Open `index.html` in your browser.
